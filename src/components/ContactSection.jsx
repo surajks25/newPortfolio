@@ -93,7 +93,7 @@ export const ContactSection = () => {
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    Kagga Koppa, Chikmagalur
+                    Koppa, Chikmagalur
                   </a>
                 </div>
               </div>
@@ -102,16 +102,16 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/suraj-ks-0724352b7/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://x.com/surajkskulal" target="_blank">
                   <Twitter />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.instagram.com/s___k_u_l_a_l___/" target="_blank">
                   <Instagram />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://github.com/surajks25" target="_blank">
                   <Github />
                 </a>
               </div>
